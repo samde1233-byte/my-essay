@@ -1,0 +1,7 @@
+Q1: Which method helps you understand your changes better?
+
+Honestly the GitHub website is easier for me. Like I can actually see the lines added in green and it just makes more sense when I'm looking at it. The command line diff is cool too but I gotta stare at it for a sec to figure out what changed. So yeah website for quick checks, command line if I need to be exact.
+
+Q2: Can you see how your essay developed over time?
+
+Yeah for sure. You can see each commit added one piece, first the title then the intro then the body. So looking at the commit list is basically watching the essay get built step by step. And the diff from HEAD~2 to HEAD shows everything that got added since two saves ago which is pretty neat.
